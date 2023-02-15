@@ -1,0 +1,8 @@
+spring:
+  profiles:    active:local
+  security:    filter:      order: 9
+      
+comprison-site:
+  endpoint:
+    enabled:true
+    url:standarizeFields:/comprison-site/standardize-fields
