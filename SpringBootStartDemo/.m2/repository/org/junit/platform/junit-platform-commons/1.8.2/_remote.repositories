@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 17 10:55:05 CST 2023
+junit-platform-commons-1.8.2.jar>aliyunmaven=
+junit-platform-commons-1.8.2-sources.jar>aliyunmaven=
+junit-platform-commons-1.8.2.pom>aliyunmaven=

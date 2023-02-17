@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 17 10:55:00 CST 2023
+jakarta.xml.bind-api-2.3.3.jar>aliyunmaven=
+jakarta.xml.bind-api-2.3.3-sources.jar>aliyunmaven=
+jakarta.xml.bind-api-2.3.3.pom>aliyunmaven=
